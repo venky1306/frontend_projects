@@ -1,0 +1,19 @@
+html{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(rgb(193, 243, 220),rgb(186, 229, 247));
+}
+#heading{
+    height: 55vh;
+    background-image: url("https://www.hdwallpapers.in/walls/steve_jobs-wide.jpg");
+    background-size: 50% 99%;
+    background-repeat: no-repeat;
+    background-position: 50% 10%;
+}
+
+#intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
